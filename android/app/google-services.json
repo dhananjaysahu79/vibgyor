@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "992532437768",
+    "project_id": "vibgyor-c62b2",
+    "storage_bucket": "vibgyor-c62b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992532437768:android:e3f151b77825bdb6516abd",
+        "android_client_info": {
+          "package_name": "com.phantom.vibgyor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992532437768-6b1sjife3aj9r6lqrhe0vlo67dilqc9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phantom.vibgyor",
+            "certificate_hash": "50ecf35a1edba8b9234b03ddaedecb6af16e6087"
+          }
+        },
+        {
+          "client_id": "992532437768-v3g0sdpql6cl4e0ki2vj2u01cbr8g3vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMHU0hFPypCMGwO3E0ibMF_IpBRk5NKkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992532437768-v3g0sdpql6cl4e0ki2vj2u01cbr8g3vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
